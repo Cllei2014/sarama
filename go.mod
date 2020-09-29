@@ -1,4 +1,4 @@
-module github.com/zcqzcg/sarama
+module github.com/qianyan/sarama
 
 go 1.14
 
@@ -10,5 +10,5 @@ require (
 	github.com/eapache/queue v1.1.0
 	github.com/pierrec/lz4 v2.5.1+incompatible
 	github.com/rcrowley/go-metrics v0.0.0-20200313005456-10cdbea86bc0
-	github.com/zcqzcg/gmtls v1.0.0
+	github.com/tjfoc/gmtls v1.2.1
 )
