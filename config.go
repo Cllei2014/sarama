@@ -4,7 +4,7 @@ import (
 	"compress/gzip"
 	//"crypto/tls"
 	"fmt"
-	tls "github.com/tjfoc/gmtls"
+	tls "github.com/Hyperledger-TWGC/tjfoc-gm/gmtls"
 	"io/ioutil"
 	"net"
 	"regexp"
